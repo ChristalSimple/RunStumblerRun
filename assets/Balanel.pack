@@ -1,0 +1,187 @@
+
+Balanel.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+game-bg
+  rotate: false
+  xy: 1, 507
+  size: 800, 480
+  orig: 800, 480
+  offset: 0, 0
+  index: -1
+road
+  rotate: false
+  xy: 1, 205
+  size: 800, 300
+  orig: 800, 300
+  offset: 0, 0
+  index: -1
+enemy1
+  rotate: false
+  xy: 803, 847
+  size: 93, 140
+  orig: 93, 140
+  offset: 0, 0
+  index: -1
+enemy2
+  rotate: false
+  xy: 1, 63
+  size: 93, 140
+  orig: 93, 140
+  offset: 0, 0
+  index: -1
+enemy3
+  rotate: false
+  xy: 803, 705
+  size: 93, 140
+  orig: 93, 140
+  offset: 0, 0
+  index: -1
+enemy4
+  rotate: false
+  xy: 898, 847
+  size: 93, 140
+  orig: 93, 140
+  offset: 0, 0
+  index: -1
+enemy5
+  rotate: false
+  xy: 96, 63
+  size: 93, 140
+  orig: 93, 140
+  offset: 0, 0
+  index: -1
+player1
+  rotate: false
+  xy: 803, 563
+  size: 93, 140
+  orig: 93, 140
+  offset: 0, 0
+  index: -1
+player2
+  rotate: false
+  xy: 898, 705
+  size: 93, 140
+  orig: 93, 140
+  offset: 0, 0
+  index: -1
+player3
+  rotate: false
+  xy: 191, 63
+  size: 93, 140
+  orig: 93, 140
+  offset: 0, 0
+  index: -1
+player4
+  rotate: false
+  xy: 803, 421
+  size: 93, 140
+  orig: 93, 140
+  offset: 0, 0
+  index: -1
+player5
+  rotate: false
+  xy: 898, 563
+  size: 93, 140
+  orig: 93, 140
+  offset: 0, 0
+  index: -1
+player6
+  rotate: false
+  xy: 286, 63
+  size: 93, 140
+  orig: 93, 140
+  offset: 0, 0
+  index: -1
+enemy_duck1
+  rotate: false
+  xy: 803, 319
+  size: 93, 100
+  orig: 93, 100
+  offset: 0, 0
+  index: -1
+enemy_duck2
+  rotate: false
+  xy: 898, 461
+  size: 93, 100
+  orig: 93, 100
+  offset: 0, 0
+  index: -1
+enemy_duck3
+  rotate: false
+  xy: 381, 103
+  size: 93, 100
+  orig: 93, 100
+  offset: 0, 0
+  index: -1
+enemy_duck4
+  rotate: false
+  xy: 803, 217
+  size: 93, 100
+  orig: 93, 100
+  offset: 0, 0
+  index: -1
+enemy_duck5
+  rotate: false
+  xy: 898, 359
+  size: 93, 100
+  orig: 93, 100
+  offset: 0, 0
+  index: -1
+player_duck1
+  rotate: false
+  xy: 476, 103
+  size: 93, 100
+  orig: 93, 100
+  offset: 0, 0
+  index: -1
+player_duck2
+  rotate: false
+  xy: 898, 257
+  size: 93, 100
+  orig: 93, 100
+  offset: 0, 0
+  index: -1
+player_duck3
+  rotate: false
+  xy: 571, 103
+  size: 93, 100
+  orig: 93, 100
+  offset: 0, 0
+  index: -1
+player_duck4
+  rotate: false
+  xy: 666, 103
+  size: 93, 100
+  orig: 93, 100
+  offset: 0, 0
+  index: -1
+player_duck5
+  rotate: false
+  xy: 761, 103
+  size: 93, 100
+  orig: 93, 100
+  offset: 0, 0
+  index: -1
+box
+  rotate: false
+  xy: 1, 1
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+bottle
+  rotate: false
+  xy: 381, 88
+  size: 44, 13
+  orig: 44, 13
+  offset: 0, 0
+  index: -1
+broken-bottle
+  rotate: false
+  xy: 898, 242
+  size: 36, 13
+  orig: 36, 13
+  offset: 0, 0
+  index: -1

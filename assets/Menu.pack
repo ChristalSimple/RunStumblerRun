@@ -1,0 +1,117 @@
+
+Menu.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+menu-background
+  rotate: false
+  xy: 1, 475
+  size: 800, 480
+  orig: 800, 480
+  offset: 0, 0
+  index: -1
+scores-table
+  rotate: false
+  xy: 1, 213
+  size: 300, 260
+  orig: 300, 260
+  offset: 0, 0
+  index: -1
+menu-bottles-left
+  rotate: false
+  xy: 803, 575
+  size: 176, 380
+  orig: 176, 380
+  offset: 0, 0
+  index: -1
+menu-title
+  rotate: false
+  xy: 303, 403
+  size: 453, 70
+  orig: 453, 70
+  offset: 0, 0
+  index: -1
+menu-bottles-right
+  rotate: false
+  xy: 303, 52
+  size: 176, 349
+  orig: 176, 349
+  offset: 0, 0
+  index: -1
+back-button-down
+  rotate: false
+  xy: 1, 160
+  size: 180, 51
+  orig: 180, 51
+  offset: 0, 0
+  index: -1
+back-button-up
+  rotate: false
+  xy: 481, 350
+  size: 180, 51
+  orig: 180, 51
+  offset: 0, 0
+  index: -1
+exit-button-down
+  rotate: false
+  xy: 1, 107
+  size: 180, 51
+  orig: 180, 51
+  offset: 0, 0
+  index: -1
+exit-button-up
+  rotate: false
+  xy: 481, 297
+  size: 180, 51
+  orig: 180, 51
+  offset: 0, 0
+  index: -1
+scores-button-down
+  rotate: false
+  xy: 1, 54
+  size: 180, 51
+  orig: 180, 51
+  offset: 0, 0
+  index: -1
+scores-button-up
+  rotate: false
+  xy: 481, 244
+  size: 180, 51
+  orig: 180, 51
+  offset: 0, 0
+  index: -1
+start-button-down
+  rotate: false
+  xy: 1, 1
+  size: 180, 51
+  orig: 180, 51
+  offset: 0, 0
+  index: -1
+start-button-up
+  rotate: false
+  xy: 481, 191
+  size: 180, 51
+  orig: 180, 51
+  offset: 0, 0
+  index: -1
+menu-player1
+  rotate: false
+  xy: 803, 476
+  size: 60, 97
+  orig: 60, 97
+  offset: 0, 0
+  index: -1
+menu-player2
+  rotate: false
+  xy: 183, 114
+  size: 60, 97
+  orig: 60, 97
+  offset: 0, 0
+  index: -1
+menu-player3
+  rotate: false
+  xy: 663, 304
+  size: 60, 97
+  orig: 60, 97
+  offset: 0, 0
+  index: -1

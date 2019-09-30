@@ -1,0 +1,110 @@
+
+UiStage.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+setting-panel
+  rotate: false
+  xy: 1, 155
+  size: 490, 356
+  orig: 490, 356
+  offset: 0, 0
+  index: -1
+game-over
+  rotate: false
+  xy: 1, 53
+  size: 360, 100
+  orig: 360, 100
+  offset: 0, 0
+  index: -1
+game-over-score-alpha
+  rotate: false
+  xy: 1, 1
+  size: 290, 50
+  orig: 290, 50
+  offset: 0, 0
+  index: -1
+game-over-score
+  rotate: false
+  xy: 293, 1
+  size: 290, 50
+  orig: 290, 50
+  offset: 0, 0
+  index: -1
+scoreBar
+  rotate: false
+  xy: 493, 444
+  size: 200, 67
+  orig: 200, 67
+  offset: 0, 0
+  index: -1
+back-button-down
+  rotate: false
+  xy: 493, 391
+  size: 180, 51
+  orig: 180, 51
+  offset: 0, 0
+  index: -1
+back-button-up
+  rotate: false
+  xy: 695, 460
+  size: 180, 51
+  orig: 180, 51
+  offset: 0, 0
+  index: -1
+menu-button-down
+  rotate: false
+  xy: 493, 338
+  size: 180, 51
+  orig: 180, 51
+  offset: 0, 0
+  index: -1
+menu-button-up
+  rotate: false
+  xy: 493, 285
+  size: 180, 51
+  orig: 180, 51
+  offset: 0, 0
+  index: -1
+try-button-down
+  rotate: false
+  xy: 493, 232
+  size: 180, 51
+  orig: 180, 51
+  offset: 0, 0
+  index: -1
+try-button-up
+  rotate: false
+  xy: 493, 179
+  size: 180, 51
+  orig: 180, 51
+  offset: 0, 0
+  index: -1
+duck-button-down
+  rotate: false
+  xy: 363, 73
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+duck-button-up
+  rotate: false
+  xy: 877, 431
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+settings-down
+  rotate: false
+  xy: 445, 83
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+settings-up
+  rotate: false
+  xy: 517, 107
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
